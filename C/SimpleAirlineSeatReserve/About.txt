@@ -1,15 +1,19 @@
-SIMPLE AIRLINE SEAT RESERVATION SYSTEM IN C PROGRAMMING
+<h2>SIMPLE AIRLINE SEAT RESERVATION SYSTEM IN C PROGRAMMING</h2>
 
-Project: 
-Simple Airline Seat Reservation System in C Programming with source code
+<h4>Project:</h4> 
+<i>Simple Airline Seat Reservation System in C Programming with source code</i>
 
+<p>
 Simple Airline Seat Reservation System is based on the concept of reserving airline seats for the passengers. There’s no login system available for this system, the user can freely use its feature. This mini project contains limited features, but the essential one. Make sure that you have code editor for the C programming language. So, after that, open the project in the code editor and first build the project. After that, run the project.
+</p>
 
-About Project
+<b>About Project</b>
+<p>
 Talking about the features of this Simple system, the user has to select the seat class whether to choose Business or Economy class. Then the system displays available seats, and the user has to enter that particular seat number in order to reserve it. After reserving a seat, that particular seat won’t be available anymore for other users.
-
+</p>
+<p>
 The system does not create an external file to store the user’s data permanently. This system is developed using C Programming Language and different variables, strings have been used for the development of it. Simple Airline Seat Reservation System in C Programming with source code is free to download. Use for educational purposes only! For the project demo, have a look at the video below.
-
+</p>
 
 
 #THANK YOU FOR DOWNLOADING
