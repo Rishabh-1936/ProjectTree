@@ -1,5 +1,3 @@
-<h2>SIMPLE AIRLINE SEAT RESERVATION SYSTEM IN C PROGRAMMING</h2>
-
 <h4>Project:</h4> 
 <i>Simple Airline Seat Reservation System in C Programming with source code</i>
 
